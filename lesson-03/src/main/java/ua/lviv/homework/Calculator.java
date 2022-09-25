@@ -4,7 +4,7 @@
  *  * @author Oleksandr
  * */
 
-package lgs.lviv.homework;
+package ua.lviv.homework;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;

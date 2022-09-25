@@ -1,0 +1,43 @@
+2022-09-24 00:54:38 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 00:54:38 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 00:54:38 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 00:54:38 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 00:54:38 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+
+
+2022-09-24 22:34:50 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:34:50 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:34:50 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:34:50 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:34:50 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+2022-09-24 22:54:38 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:54:38 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:54:38 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:54:38 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:54:38 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+2022-09-24 22:55:26 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:55:26 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:55:26 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:55:26 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:55:26 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+2022-09-24 22:55:55 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:55:55 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:55:55 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:55:56 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:55:56 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+2022-09-24 22:56:52 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:56:52 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:56:52 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:56:52 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:56:52 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+2022-09-24 22:58:13 DEBUG CustomLoggeredFile:33 - DEBUG logger message of progect
+2022-09-24 22:58:13 INFO  CustomLoggeredFile:34 - INFO logger message of progect
+2022-09-24 22:58:13 WARN  CustomLoggeredFile:36 - WARN logger message of progect
+2022-09-24 22:58:13 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-24 22:58:13 FATAL CustomLoggeredFile:38 - FATAL logger message of progect
+
+
+
+2022-09-24 23:02:42 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-25 00:36:14 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
+2022-09-25 00:43:11 ERROR CustomLoggeredFile:37 - ERROR logger message of progect
